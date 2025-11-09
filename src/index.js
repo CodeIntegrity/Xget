@@ -2,7 +2,7 @@ import { CONFIG, createConfig } from './config/index.js';
 import { transformPath } from './config/platforms.js';
 
 /**
- * Monitors performance metrics during request processing
+ * Monitors performance metrics during request processing1
  */
 class PerformanceMonitor {
   /**
